@@ -6,7 +6,7 @@ const bot = new Aoijs.Bot({
 	sharding: false, // mettez true si vous utilisez les shards
 	shardAmount: 2, // le nombre de shards
 	mobile: false, //Mettez true pour avoir un statut avec l'icone mobile
-	token: 'VOTRE TOKEN', //Le token de votre bot Discord (discord.dev)
+	token: 'MTEzMTEwMTk5NDA0ODgyNzQyMw.G_2oSe.RCRUpNpBI8U2pq65MUjlEBKgvEB7a_8WRxwBDg', //Le token de votre bot Discord (discord.dev)
 	prefix: ['$getServerVar[prefix]', '<@$clientID>'], // ne pas toucher
 	autoUpdate: false, //ne pas toucher
 	fetchInvites: true // ne pas toucher
